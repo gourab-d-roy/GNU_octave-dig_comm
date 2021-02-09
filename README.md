@@ -3,5 +3,5 @@ octave programs to perform digital comm lab experiments
 find the source codes here.
 copy them or download the files
 run them on gnu octave
-#DONE!!
-#Access octave here: Octave Online: https://octave-online.net
+# DONE!!
+# Access octave here: Octave Online: https://octave-online.net
